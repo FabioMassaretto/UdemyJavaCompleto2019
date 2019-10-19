@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.fabio.curso.java</groupId>
+    <artifactId>java-completo-udemy</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0</version>
+    <modules>
+        <module>secao008aula067</module>
+        <module>secao018aula187</module>
+        <module>secao018aula186</module>
+        <module>secao017aula181</module>
+        <module>secao017aula179</module>
+        <module>secao017aula178</module>
+        <module>secao017aula176</module>
+        <module>secao017aula175</module>
+        <module>secao015aula141</module>
+        <module>secao015aula140</module>
+        <module>secao015aula138</module>
+        <module>secao014aula130</module>
+        <module>secao014aula129</module>
+        <module>secao014aula127</module>
+        <module>secao014aula126</module>
+        <module>secao014aula123</module>
+        <module>secao014aula121</module>
+        <module>secao013aula118</module>
+    </modules>
+
+    <properties>
+        <maven.compiler.source>11</maven.compiler.source>
+        <maven.compiler.target>11</maven.compiler.target>
+    </properties>
+</project>
