@@ -1,7 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e3514511-e973-40fa-bedd-634ebf259b45" name="Default Changelist" comment="" />
+    <list default="true" id="e3514511-e973-40fa-bedd-634ebf259b45" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao010aula096/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao010aula096/secao010aula096.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao010aula096/src/main/java/com/fabio/javacompletoudemy/secao010aula096/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao010aula097/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao010aula097/src/main/java/com/fabio/javacompletoudemy/secao010aula097/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao011aula099e100/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao011aula099e100/src/main/java/com/fabio/javacompletoudemy/secao013aula099e100/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao013aula112/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao013aula112/secao013aula112.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao013aula112/src/main/java/com/fabio/javacompletoudemy/secao013aula112/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao013aula112/src/main/java/com/fabio/javacompletoudemy/secao013aula112/domain/entity/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao013aula112/src/main/java/com/fabio/javacompletoudemy/secao013aula112/domain/enums/OrderStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao013aula115/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao013aula115/src/main/java/com/fabio/javacompletoudemy/secao013aula115/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao013aula115/src/main/java/com/fabio/javacompletoudemy/secao013aula115/domain/entity/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao013aula115/src/main/java/com/fabio/javacompletoudemy/secao013aula115/domain/entity/HourContract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao013aula115/src/main/java/com/fabio/javacompletoudemy/secao013aula115/domain/entity/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao013aula115/src/main/java/com/fabio/javacompletoudemy/secao013aula115/domain/enums/WorkerLevel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao013aula117/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao013aula117/src/main/java/com/fabio/javacompletoudemy/secao013aula117/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao013aula117/src/main/java/com/fabio/javacompletoudemy/secao013aula117/domain/entity/Comment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao013aula117/src/main/java/com/fabio/javacompletoudemy/secao013aula117/domain/entity/Post.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/secao013aula118/src/main/java/com/fabio/javacompletoudemy/secao013aula118/domain/entity/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/secao013aula118/src/main/java/com/fabio/javacompletoudemy/secao013aula118/domain/entity/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/secao013aula118/src/main/java/com/fabio/javacompletoudemy/secao013aula118/domain/entity/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/secao013aula118/src/main/java/com/fabio/javacompletoudemy/secao013aula118/domain/entity/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/secao013aula118/src/main/java/com/fabio/javacompletoudemy/secao013aula118/domain/entity/OrderItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/secao013aula118/src/main/java/com/fabio/javacompletoudemy/secao013aula118/domain/entity/OrderItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/secao013aula118/src/main/java/com/fabio/javacompletoudemy/secao013aula118/domain/entity/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/secao013aula118/src/main/java/com/fabio/javacompletoudemy/secao013aula118/domain/entity/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/secao013aula118/src/main/java/com/fabio/javacompletoudemy/secao013aula118/domain/entity/enums/OrderStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/secao013aula118/src/main/java/com/fabio/javacompletoudemy/secao013aula118/domain/entity/enums/OrderStatus.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +48,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1SDgCSseYVn4T3IGAOJoSVKnxx5" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="11" />
@@ -31,6 +67,13 @@
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\opt\workspace2\java-completo-udemy\secao010aula096\src\main\java\com\fabio\javacompletoudemy\secao010aula096\application" />
+      <recent name="F:\opt\workspace2\java-completo-udemy\secao010aula097\src\main\java\com\fabio\javacompletoudemy\secao010aula097\application" />
+      <recent name="F:\opt\workspace2\java-completo-udemy\secao011aula099e100\src\main\java\com\fabio\javacompletoudemy\secao013aula099e100\application" />
+      <recent name="F:\opt\workspace2\java-completo-udemy\secao013aula112\src\main\java\com\fabio\javacompletoudemy\secao013aula112\domain\enums" />
+      <recent name="F:\opt\workspace2\java-completo-udemy\secao013aula112\src\main\java\com\fabio\javacompletoudemy\secao013aula112\domain\entity" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\opt\workspace2\java-completo-udemy\secao013aula118\src\main\java\com\fabio\javacompletoudemy\secao013aula118\application" />
       <recent name="F:\opt\workspace2\java-completo-udemy\secao013aula118\src\main\java\com\fabio\javacompletoudemy\secao013aula118\domain\entity\enums" />
@@ -98,11 +141,23 @@
       <workItem from="1571103456297" duration="2265000" />
       <workItem from="1571191009324" duration="3297000" />
       <workItem from="1571269786513" duration="4236000" />
-      <workItem from="1571443271207" duration="3236000" />
+      <workItem from="1571443271207" duration="3585000" />
+      <workItem from="1571794499758" duration="2567000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

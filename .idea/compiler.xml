@@ -14,7 +14,10 @@
         <module name="secao014aula121" />
         <module name="secao013aula118" />
         <module name="secao008aula067" />
+        <module name="secao013aula115" />
         <module name="secao014aula130" />
+        <module name="secao013aula112" />
+        <module name="secao011aula099e100" />
         <module name="secao017aula179" />
         <module name="secao017aula178" />
         <module name="secao017aula176" />
@@ -22,7 +25,10 @@
         <module name="secao018aula187" />
         <module name="secao018aula186" />
         <module name="secao015aula138" />
+        <module name="secao013aula117" />
+        <module name="secao010aula097" />
         <module name="secao017aula181" />
+        <module name="secao010aula096" />
         <module name="secao014aula129" />
       </profile>
     </annotationProcessing>
