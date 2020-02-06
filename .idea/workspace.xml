@@ -11,11 +11,25 @@
       <change afterPath="$PROJECT_DIR$/secao018aula189/src/main/java/com/fabio/javacompletoudemy/secao018aula189/service/InstallmentService.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/secao018aula189/src/main/java/com/fabio/javacompletoudemy/secao018aula189/service/PaymentService.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/secao018aula189/src/main/java/com/fabio/javacompletoudemy/secao018aula189/service/PaypalService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao019aula196/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao019aula196/src/main/java/com/fabio/javacompletoudemy/secao018aula196/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao019aula196/src/main/java/com/fabio/javacompletoudemy/secao018aula196/domain/entity/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao019aula196/src/main/java/com/fabio/javacompletoudemy/secao018aula196/service/PrintService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao019aula197/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao019aula197/src/main/java/com/fabio/javacompletoudemy/secao018aula197/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao019aula197/src/main/java/com/fabio/javacompletoudemy/secao018aula197/domain/entity/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao019aula197/src/main/java/com/fabio/javacompletoudemy/secao018aula197/service/CalculationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao019aula197/src/main/resources/in.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao019aula199/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao019aula199/secao019aula199.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao019aula199/src/main/java/com/fabio/javacompletoudemy/secao019aula199/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao019aula199/src/main/java/com/fabio/javacompletoudemy/secao019aula199/domain/entity/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao019aula199/src/main/java/com/fabio/javacompletoudemy/secao019aula199/domain/entity/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao019aula199/src/main/java/com/fabio/javacompletoudemy/secao019aula199/domain/entity/Shape.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,8 +38,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -33,6 +47,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1SDgCSseYVn4T3IGAOJoSVKnxx5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -40,6 +59,13 @@
     <property name="jdk.selected.JAVA_MODULE" value="11" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/secao018aula187/src/main/java/com/fabio/javacompletoudemy/secao018aula187" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/secao008aula071/src/main/java/com/fabio/javacompletoudemy/secao008aula071/utils" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -92,9 +118,13 @@
     <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.fabio.javacompletoudemy.secao017aula175.application.Program" />
       <module name="secao017aula175" />
+  <component name="RunManager" selected="Application.Program">
+    <configuration name="Program (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fabio.javacompletoudemy.secao018aula192.application.Program" />
+      <module name="secao018aula192" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fabio.javacompletoudemy.secao017aula175.application.*" />
+          <option name="PATTERN" value="com.fabio.javacompletoudemy.secao018aula192.application.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +132,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProgramV2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fabio.javacompletoudemy.secao017aula176.application.ProgramV2" />
-      <module name="secao017aula176" />
+    <configuration name="Program (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fabio.javacompletoudemy.secao018aula193.application.Program" />
+      <module name="secao018aula193" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fabio.javacompletoudemy.secao017aula176.application.*" />
+          <option name="PATTERN" value="com.fabio.javacompletoudemy.secao018aula193.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Program (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fabio.javacompletoudemy.secao018aula196.application.Program" />
+      <module name="secao019aula196" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fabio.javacompletoudemy.secao018aula196.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Program (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fabio.javacompletoudemy.secao018aula197.application.Program" />
+      <module name="secao019aula197" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fabio.javacompletoudemy.secao018aula197.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fabio.javacompletoudemy.secao019aula199.application.Program" />
+      <module name="secao019aula199" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fabio.javacompletoudemy.secao019aula199.application.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,9 +188,24 @@
       <list>
         <item itemvalue="Application.Program (1)" />
         <item itemvalue="Application.Program" />
-        <item itemvalue="Application.ProgramV2" />
+        <item itemvalue="Application.Program (5)" />
+        <item itemvalue="Application.Program (4)" />
+        <item itemvalue="Application.Program (3)" />
+        <item itemvalue="Application.Program (2)" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -152,6 +236,13 @@
       <workItem from="1578963023858" duration="608000" />
       <workItem from="1580865142748" duration="935000" />
       <workItem from="1580949539997" duration="274000" />
+      <workItem from="1571871937959" duration="3199000" />
+      <workItem from="1572982503300" duration="610000" />
+      <workItem from="1573061422810" duration="495000" />
+      <workItem from="1573224515438" duration="800000" />
+      <workItem from="1576582233846" duration="44000" />
+      <workItem from="1578336067050" duration="14978000" />
+      <workItem from="1578912028976" duration="3680000" />
     </task>
     <servers />
   </component>
@@ -170,5 +261,81 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="240" y="65" key="#Project_Structure" timestamp="1578912468898">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="240" y="65" key="#Project_Structure/0.0.1280.800/-1920.-280.1920.1080@0.0.1280.800" timestamp="1578912468898" />
+    <state x="453" y="123" key="#com.intellij.ide.util.MemberChooser" timestamp="1578926684324">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="453" y="123" key="#com.intellij.ide.util.MemberChooser/0.0.1280.800/-1920.-257.1920.1057@0.0.1280.800" timestamp="1578397396420" />
+    <state x="453" y="123" key="#com.intellij.ide.util.MemberChooser/0.0.1280.800/-1920.-280.1920.1080@0.0.1280.800" timestamp="1578926684324" />
+    <state x="0" y="0" width="524" height="800" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1578926803127">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="0" y="0" width="524" height="800" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.800/-1920.-280.1920.1080@0.0.1280.800" timestamp="1578926803127" />
+    <state x="378" y="154" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1578396368315">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="378" y="154" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.800/-1920.-280.1920.1080@0.0.1280.800" timestamp="1578396368315" />
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom" timestamp="1578932434178">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.0.1280.800/-1920.-257.1920.1057@0.0.1280.800" timestamp="1578656033896" />
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.0.1280.800/-1920.-280.1920.1080@0.0.1280.800" timestamp="1578932434178" />
+    <state width="1238" height="212" key="GridCell.Tab.0.center" timestamp="1578932434171">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.0.center/0.0.1280.800/-1920.-257.1920.1057@0.0.1280.800" timestamp="1578656033883" />
+    <state width="1238" height="212" key="GridCell.Tab.0.center/0.0.1280.800/-1920.-280.1920.1080@0.0.1280.800" timestamp="1578932434171" />
+    <state width="1238" height="212" key="GridCell.Tab.0.left" timestamp="1578932434165">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.0.left/0.0.1280.800/-1920.-257.1920.1057@0.0.1280.800" timestamp="1578656033879" />
+    <state width="1238" height="212" key="GridCell.Tab.0.left/0.0.1280.800/-1920.-280.1920.1080@0.0.1280.800" timestamp="1578932434165" />
+    <state width="1238" height="212" key="GridCell.Tab.0.right" timestamp="1578932434174">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.0.right/0.0.1280.800/-1920.-257.1920.1057@0.0.1280.800" timestamp="1578656033888" />
+    <state width="1238" height="212" key="GridCell.Tab.0.right/0.0.1280.800/-1920.-280.1920.1080@0.0.1280.800" timestamp="1578932434174" />
+    <state width="1238" height="263" key="GridCell.Tab.1.bottom" timestamp="1578932322745">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="263" key="GridCell.Tab.1.bottom/0.0.1280.800/-1920.-280.1920.1080@0.0.1280.800" timestamp="1578932322745" />
+    <state width="1238" height="263" key="GridCell.Tab.1.center" timestamp="1578932322740">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="263" key="GridCell.Tab.1.center/0.0.1280.800/-1920.-280.1920.1080@0.0.1280.800" timestamp="1578932322740" />
+    <state width="1238" height="263" key="GridCell.Tab.1.left" timestamp="1578932322737">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="263" key="GridCell.Tab.1.left/0.0.1280.800/-1920.-280.1920.1080@0.0.1280.800" timestamp="1578932322737" />
+    <state width="1238" height="263" key="GridCell.Tab.1.right" timestamp="1578932322743">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="263" key="GridCell.Tab.1.right/0.0.1280.800/-1920.-280.1920.1080@0.0.1280.800" timestamp="1578932322743" />
+    <state x="0" y="0" width="1024" height="800" key="SettingsEditor" timestamp="1578396916667">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="0" y="0" width="1024" height="800" key="SettingsEditor/0.0.1280.800/-1920.-257.1920.1057@0.0.1280.800" timestamp="1578396916667" />
+    <state x="319" y="228" key="com.intellij.ide.util.TipDialog" timestamp="1578912030214">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="319" y="228" key="com.intellij.ide.util.TipDialog/0.0.1280.800/-1920.-280.1920.1080@0.0.1280.800" timestamp="1578912030214" />
+    <state x="319" y="244" key="com.intellij.ide.util.TipDialog/0.23.1280.777/-1920.-257.1920.1057@0.23.1280.777" timestamp="1573061474121" />
+    <state x="0" y="0" width="1212" height="800" key="new project wizard" timestamp="1578913590520">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="0" y="0" width="1212" height="800" key="new project wizard/0.0.1280.800/-1920.-280.1920.1080@0.0.1280.800" timestamp="1578913590520" />
+    <state x="305" y="185" key="run.anything.popup" timestamp="1578393735159">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="305" y="185" key="run.anything.popup/0.0.1280.800/-1920.-280.1920.1080@0.0.1280.800" timestamp="1578393735159" />
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1578427071578">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.0.1280.800/-1920.-280.1920.1080@0.0.1280.800" timestamp="1578427071578" />
   </component>
 </project>
