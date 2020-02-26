@@ -2,10 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3514511-e973-40fa-bedd-634ebf259b45" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/secao019aula202/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/secao019aula202/src/main/java/com/fabio/javacompletoudemy/secao019aula201/application/Program.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/secao019aula202/src/main/java/com/fabio/javacompletoudemy/secao019aula201/domain/entiry/Product.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/secao008aula071/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao008aula071/src/main/java/com/fabio/javacompletoudemy/secao008aula071/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao008aula071/src/main/java/com/fabio/javacompletoudemy/secao008aula071/utils/CurrencyConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao018aula189/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao018aula189/src/main/java/com/fabio/javacompletoudemy/secao018aula189/domain/entity/Contract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao018aula189/src/main/java/com/fabio/javacompletoudemy/secao018aula189/domain/entity/Installment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao018aula189/src/main/java/com/fabio/javacompletoudemy/secao018aula189/service/InstallmentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao018aula189/src/main/java/com/fabio/javacompletoudemy/secao018aula189/service/PaymentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao018aula189/src/main/java/com/fabio/javacompletoudemy/secao018aula189/service/PaypalService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao019aula196/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao019aula196/src/main/java/com/fabio/javacompletoudemy/secao018aula196/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao019aula196/src/main/java/com/fabio/javacompletoudemy/secao018aula196/domain/entity/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao019aula196/src/main/java/com/fabio/javacompletoudemy/secao018aula196/service/PrintService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao019aula197/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao019aula197/src/main/java/com/fabio/javacompletoudemy/secao018aula197/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao019aula197/src/main/java/com/fabio/javacompletoudemy/secao018aula197/domain/entity/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao019aula197/src/main/java/com/fabio/javacompletoudemy/secao018aula197/service/CalculationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao019aula197/src/main/resources/in.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao019aula199/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao019aula199/secao019aula199.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao019aula199/src/main/java/com/fabio/javacompletoudemy/secao019aula199/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao019aula199/src/main/java/com/fabio/javacompletoudemy/secao019aula199/domain/entity/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao019aula199/src/main/java/com/fabio/javacompletoudemy/secao019aula199/domain/entity/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao019aula199/src/main/java/com/fabio/javacompletoudemy/secao019aula199/domain/entity/Shape.java" afterDir="false" />
+>>>>>>> f0880a87fb635d4c4f1b40efbe0d033ce90a2358
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
@@ -43,6 +70,7 @@
     <property name="extract.method.default.visibility" value="private" />
     <property name="jdk.selected.JAVA_MODULE" value="11" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/secao018aula187/src/main/java/com/fabio/javacompletoudemy/secao018aula187" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/secao008aula071/src/main/java/com/fabio/javacompletoudemy/secao008aula071/utils" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -58,13 +86,6 @@
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\opt\workspace2\java-completo-udemy\secao009aula074\src\main\java\com\fabio\javacompletoudemy\secao009aula074\domain\entity" />
-      <recent name="F:\opt\workspace2\java-completo-udemy\secao009aula074\src\main\java\com\fabio\javacompletoudemy\secao009aula074\application" />
-      <recent name="F:\opt\workspace2\java-completo-udemy\secao009aula081\src\main\java\com\fabio\javacompletoudemy\secao009aula081\domain\entity" />
-      <recent name="F:\opt\workspace2\java-completo-udemy\secao009aula081\src\main\java\com\fabio\javacompletoudemy\secao009aula081\application" />
-      <recent name="F:\opt\workspace2\java-completo-udemy\secao010aula087e088\src\main\java\com\fabio\javacompletoudemy\secao010aula087e088\application" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\opt\workspace2\java-completo-udemy\secao010aula096\src\main\java\com\fabio\javacompletoudemy\secao010aula096\application" />
       <recent name="F:\opt\workspace2\java-completo-udemy\secao010aula097\src\main\java\com\fabio\javacompletoudemy\secao010aula097\application" />
@@ -72,11 +93,54 @@
       <recent name="F:\opt\workspace2\java-completo-udemy\secao013aula112\src\main\java\com\fabio\javacompletoudemy\secao013aula112\domain\enums" />
       <recent name="F:\opt\workspace2\java-completo-udemy\secao013aula112\src\main\java\com\fabio\javacompletoudemy\secao013aula112\domain\entity" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\opt\workspace2\java-completo-udemy\secao008aula071\src\main\java\com\fabio\javacompletoudemy\secao008aula071\utils" />
+      <recent name="F:\opt\workspace2\java-completo-udemy\secao009aula074\src\main\java\com\fabio\javacompletoudemy\secao009aula074\domain\entity" />
+      <recent name="F:\opt\workspace2\java-completo-udemy\secao009aula074\src\main\java\com\fabio\javacompletoudemy\secao009aula074\application" />
+      <recent name="F:\opt\workspace2\java-completo-udemy\secao009aula081\src\main\java\com\fabio\javacompletoudemy\secao009aula081\domain\entity" />
+      <recent name="F:\opt\workspace2\java-completo-udemy\secao009aula081\src\main\java\com\fabio\javacompletoudemy\secao009aula081\application" />
+    </key>
   </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Application.Shoot">
     <configuration name="InfiniteMath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.fabio.javacompletoudemy.secao019aula200.domain.entity.InfiniteMath" />
       <module name="secao019aula200" />
+=======
+  <component name="RunManager" selected="Application.Program (1)">
+    <configuration name="Program (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fabio.javacompletoudemy.secao008aula071.application.Program" />
+      <module name="secao008aula071" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fabio.javacompletoudemy.secao008aula071.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fabio.javacompletoudemy.secao017aula175.application.Program" />
+      <module name="secao017aula175" />
+  <component name="RunManager" selected="Application.Program">
+    <configuration name="Program (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fabio.javacompletoudemy.secao018aula192.application.Program" />
+      <module name="secao018aula192" />
+>>>>>>> f0880a87fb635d4c4f1b40efbe0d033ce90a2358
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.fabio.javacompletoudemy.secao019aula200.domain.entity.*" />
@@ -135,7 +199,14 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="Application.Shoot" />
+=======
+        <item itemvalue="Application.Program (1)" />
+        <item itemvalue="Application.Program" />
+        <item itemvalue="Application.Program (5)" />
+        <item itemvalue="Application.Program (4)" />
+>>>>>>> f0880a87fb635d4c4f1b40efbe0d033ce90a2358
         <item itemvalue="Application.Program (3)" />
         <item itemvalue="Application.InfiniteMath" />
         <item itemvalue="Application.Program (2)" />
@@ -170,6 +241,20 @@
       <workItem from="1571269786513" duration="4236000" />
       <workItem from="1571443271207" duration="3585000" />
       <workItem from="1571794499758" duration="2787000" />
+      <workItem from="1571871937959" duration="3773000" />
+      <workItem from="1571956166757" duration="614000" />
+      <workItem from="1572044846666" duration="1205000" />
+      <workItem from="1572214916942" duration="739000" />
+      <workItem from="1572217701481" duration="596000" />
+      <workItem from="1572218700630" duration="773000" />
+      <workItem from="1572219854537" duration="599000" />
+      <workItem from="1572305954954" duration="4521000" />
+      <workItem from="1573177830882" duration="601000" />
+      <workItem from="1573607049558" duration="601000" />
+      <workItem from="1575071549196" duration="600000" />
+      <workItem from="1578963023858" duration="608000" />
+      <workItem from="1580865142748" duration="935000" />
+      <workItem from="1580949539997" duration="274000" />
       <workItem from="1571871937959" duration="3199000" />
       <workItem from="1572982503300" duration="610000" />
       <workItem from="1573061422810" duration="495000" />

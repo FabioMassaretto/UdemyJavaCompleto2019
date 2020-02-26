@@ -29,4 +29,5 @@ public class Installment {
     public void setAmount(Double amount) {
         this.amount = amount;
     }
+
 }

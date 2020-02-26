@@ -40,6 +40,10 @@
         <module>secao010aula087e088</module>
         <module>secao009aula081</module>
         <module>secao009aula074</module>
+<<<<<<< HEAD
+        <module>secao008aula071</module>
+        <module>secao018aula189</module>
+=======
         <module>secao018aula189</module>
         <module>secao018aula191</module>
         <module>secao018aula192</module>
@@ -49,7 +53,11 @@
         <module>secao019aula199</module>
         <module>secao019aula200</module>
         <module>secao019aula201</module>
+<<<<<<< HEAD
         <module>secao019aula202</module>
+=======
+>>>>>>> cae748ec1f727c470a784c4fe7dc7565e094bb14
+>>>>>>> f0880a87fb635d4c4f1b40efbe0d033ce90a2358
     </modules>
 
     <properties>
