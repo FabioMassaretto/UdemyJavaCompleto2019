@@ -1,6 +1,6 @@
-package com.fabio.javacompletoudemy.secao018aula196.application;
+package com.fabio.javacompletoudemy.secao019aula196.application;
 
-import com.fabio.javacompletoudemy.secao018aula196.service.PrintService;
+import com.fabio.javacompletoudemy.secao019aula196.service.PrintService;
 
 import java.util.Scanner;
 
