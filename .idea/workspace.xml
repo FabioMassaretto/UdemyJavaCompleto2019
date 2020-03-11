@@ -2,44 +2,64 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3514511-e973-40fa-bedd-634ebf259b45" name="Default Changelist" comment="">
-<<<<<<< HEAD
-      <change afterPath="$PROJECT_DIR$/secao019aula202/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secao019aula202/src/main/java/com/fabio/javacompletoudemy/secao019aula201/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secao019aula202/src/main/java/com/fabio/javacompletoudemy/secao019aula201/domain/entiry/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-=======
-      <change afterPath="$PROJECT_DIR$/secao008aula071/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secao008aula071/src/main/java/com/fabio/javacompletoudemy/secao008aula071/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secao008aula071/src/main/java/com/fabio/javacompletoudemy/secao008aula071/utils/CurrencyConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secao018aula189/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secao018aula189/src/main/java/com/fabio/javacompletoudemy/secao018aula189/domain/entity/Contract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secao018aula189/src/main/java/com/fabio/javacompletoudemy/secao018aula189/domain/entity/Installment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secao018aula189/src/main/java/com/fabio/javacompletoudemy/secao018aula189/service/InstallmentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secao018aula189/src/main/java/com/fabio/javacompletoudemy/secao018aula189/service/PaymentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secao018aula189/src/main/java/com/fabio/javacompletoudemy/secao018aula189/service/PaypalService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secao019aula196/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secao019aula196/src/main/java/com/fabio/javacompletoudemy/secao018aula196/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secao019aula196/src/main/java/com/fabio/javacompletoudemy/secao018aula196/domain/entity/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secao019aula196/src/main/java/com/fabio/javacompletoudemy/secao018aula196/service/PrintService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secao019aula197/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secao019aula197/src/main/java/com/fabio/javacompletoudemy/secao018aula197/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secao019aula197/src/main/java/com/fabio/javacompletoudemy/secao018aula197/domain/entity/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secao019aula197/src/main/java/com/fabio/javacompletoudemy/secao018aula197/service/CalculationService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secao019aula197/src/main/resources/in.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secao019aula199/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secao019aula199/secao019aula199.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secao019aula199/src/main/java/com/fabio/javacompletoudemy/secao019aula199/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secao019aula199/src/main/java/com/fabio/javacompletoudemy/secao019aula199/domain/entity/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secao019aula199/src/main/java/com/fabio/javacompletoudemy/secao019aula199/domain/entity/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secao019aula199/src/main/java/com/fabio/javacompletoudemy/secao019aula199/domain/entity/Shape.java" afterDir="false" />
->>>>>>> f0880a87fb635d4c4f1b40efbe0d033ce90a2358
+      <change afterPath="$PROJECT_DIR$/secao019aula203/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao019aula203/secao019aula203.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao019aula203/src/main/java/com/fabio/javacompletoudemy/secao019aula203/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao019aula203/src/main/java/com/fabio/javacompletoudemy/secao019aula203/domain/entity/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao019aula204/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao019aula204/src/main/java/com/fabio/javacompletoudemy/secao019aula204/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao019aula204/src/main/java/com/fabio/javacompletoudemy/secao019aula204/domain/entity/LogEntry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao019aula204/src/main/resources/log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao019aula205/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao019aula205/src/main/java/com/fabio/javacompletoudemy/secao019aula205/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao019aula205/src/main/java/com/fabio/javacompletoudemy/secao019aula205/domain/entity/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao019aula206/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao019aula206/src/main/java/com/fabio/javacompletoudemy/secao019aula206/application/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao019aula206/src/main/java/com/fabio/javacompletoudemy/secao019aula206/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao019aula206/src/main/java/com/fabio/javacompletoudemy/secao019aula206/domain/entity/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao019aula207/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao019aula207/src/main/java/com/fabio/javacompletoudemy/secao019aula207/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao019aula207/src/main/java/com/fabio/javacompletoudemy/secao019aula207/domain/entity/Candidate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao019aula207/src/main/resources/candidates.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao020aula210/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao020aula210/secao020aula210.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao020aula210/src/main/java/com/fabio/javacompletoudemy/secao020aula210/application/MyComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao020aula210/src/main/java/com/fabio/javacompletoudemy/secao020aula210/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao020aula210/src/main/java/com/fabio/javacompletoudemy/secao020aula210/domain/entity/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao020aula211/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao020aula211/src/main/java/com/fabio/javacompletoudemy/secao020aula215/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao020aula211/src/main/java/com/fabio/javacompletoudemy/secao020aula215/application/Program2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao020aula211/src/main/java/com/fabio/javacompletoudemy/secao020aula215/domain/entity/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao020aula213/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao020aula213/src/main/java/com/fabio/javacompletoudemy/secao020aula215/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao020aula213/src/main/java/com/fabio/javacompletoudemy/secao020aula215/domain/entity/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao020aula213/src/main/java/com/fabio/javacompletoudemy/secao020aula215/util/ProductPredicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao020aula214/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao020aula214/src/main/java/com/fabio/javacompletoudemy/secao020aula215/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao020aula214/src/main/java/com/fabio/javacompletoudemy/secao020aula215/domain/entity/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao020aula214/src/main/java/com/fabio/javacompletoudemy/secao020aula215/util/PriceUpdate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao020aula215/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao020aula215/src/main/java/com/fabio/javacompletoudemy/secao020aula215/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao020aula215/src/main/java/com/fabio/javacompletoudemy/secao020aula215/domain/entity/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao020aula215/src/main/java/com/fabio/javacompletoudemy/secao020aula215/util/UpperCaseName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao020aula216/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao020aula216/src/main/java/com/fabio/javacompletoudemy/secao020aula216/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao020aula216/src/main/java/com/fabio/javacompletoudemy/secao020aula216/domain/entity/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao020aula216/src/main/java/com/fabio/javacompletoudemy/secao020aula216/util/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao020aula217/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao020aula217/src/main/java/com/fabio/javacompletoudemy/secao020aula217/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao020aula218/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao020aula218/src/main/java/com/fabio/javacompletoudemy/secao020aula218/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao020aula219/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao020aula219/src/main/java/com/fabio/javacompletoudemy/secao020aula219/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao020aula219/src/main/java/com/fabio/javacompletoudemy/secao020aula219/domain/entity/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao020aula219/src/main/resources/in.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/secao017aula176/target/classes/com/fabio/javacompletoudemy/secao017aula176/application/Program.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/secao018aula193/target/classes/META-INF/secao018aula193.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/secao019aula197/target/classes/com/fabio/javacompletoudemy/secao018aula197/application/Program.class" beforeDir="false" afterPath="$PROJECT_DIR$/secao019aula197/target/classes/com/fabio/javacompletoudemy/secao018aula197/application/Program.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/secao019aula199/target/classes/com/fabio/javacompletoudemy/secao019aula199/application/Program.class" beforeDir="false" afterPath="$PROJECT_DIR$/secao019aula199/target/classes/com/fabio/javacompletoudemy/secao019aula199/application/Program.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/secao019aula201/src/main/java/com/fabio/javacompletoudemy/secao019aula201/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/secao019aula201/src/main/java/com/fabio/javacompletoudemy/secao019aula202/application/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/secao019aula202/src/main/java/com/fabio/javacompletoudemy/secao019aula201/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/secao019aula202/src/main/java/com/fabio/javacompletoudemy/secao019aula202/application/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/secao019aula202/src/main/java/com/fabio/javacompletoudemy/secao019aula201/domain/entiry/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/secao019aula202/src/main/java/com/fabio/javacompletoudemy/secao019aula202/domain/entity/Product.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,8 +90,7 @@
     <property name="extract.method.default.visibility" value="private" />
     <property name="jdk.selected.JAVA_MODULE" value="11" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/secao018aula187/src/main/java/com/fabio/javacompletoudemy/secao018aula187" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/secao008aula071/src/main/java/com/fabio/javacompletoudemy/secao008aula071/utils" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/secao019aula207/src/main/resources" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -86,6 +105,17 @@
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/secao019aula207/src/main/resources" />
+      <recent name="$PROJECT_DIR$/secao019aula204/src/main/resources" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="F:\opt\workspace2\java-completo-udemy\secao008aula071\src\main\java\com\fabio\javacompletoudemy\secao008aula071\utils" />
+      <recent name="F:\opt\workspace2\java-completo-udemy\secao009aula074\src\main\java\com\fabio\javacompletoudemy\secao009aula074\domain\entity" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.fabio.javacompletoudemy.secao020aula219.domain.entity" />
+      <recent name="com.fabio.javacompletoudemy.secao020aula211.domain.entity" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\opt\workspace2\java-completo-udemy\secao010aula096\src\main\java\com\fabio\javacompletoudemy\secao010aula096\application" />
       <recent name="F:\opt\workspace2\java-completo-udemy\secao010aula097\src\main\java\com\fabio\javacompletoudemy\secao010aula097\application" />
@@ -93,70 +123,27 @@
       <recent name="F:\opt\workspace2\java-completo-udemy\secao013aula112\src\main\java\com\fabio\javacompletoudemy\secao013aula112\domain\enums" />
       <recent name="F:\opt\workspace2\java-completo-udemy\secao013aula112\src\main\java\com\fabio\javacompletoudemy\secao013aula112\domain\entity" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\opt\workspace2\java-completo-udemy\secao008aula071\src\main\java\com\fabio\javacompletoudemy\secao008aula071\utils" />
-      <recent name="F:\opt\workspace2\java-completo-udemy\secao009aula074\src\main\java\com\fabio\javacompletoudemy\secao009aula074\domain\entity" />
-      <recent name="F:\opt\workspace2\java-completo-udemy\secao009aula074\src\main\java\com\fabio\javacompletoudemy\secao009aula074\application" />
-      <recent name="F:\opt\workspace2\java-completo-udemy\secao009aula081\src\main\java\com\fabio\javacompletoudemy\secao009aula081\domain\entity" />
-      <recent name="F:\opt\workspace2\java-completo-udemy\secao009aula081\src\main\java\com\fabio\javacompletoudemy\secao009aula081\application" />
-    </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-<<<<<<< HEAD
-  <component name="RunManager" selected="Application.Shoot">
-    <configuration name="InfiniteMath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fabio.javacompletoudemy.secao019aula200.domain.entity.InfiniteMath" />
-      <module name="secao019aula200" />
-=======
-  <component name="RunManager" selected="Application.Program (1)">
-    <configuration name="Program (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fabio.javacompletoudemy.secao008aula071.application.Program" />
-      <module name="secao008aula071" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.fabio.javacompletoudemy.secao008aula071.application.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fabio.javacompletoudemy.secao017aula175.application.Program" />
-      <module name="secao017aula175" />
-  <component name="RunManager" selected="Application.Program">
-    <configuration name="Program (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fabio.javacompletoudemy.secao018aula192.application.Program" />
-      <module name="secao018aula192" />
->>>>>>> f0880a87fb635d4c4f1b40efbe0d033ce90a2358
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.fabio.javacompletoudemy.secao019aula200.domain.entity.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Program (5)">
     <configuration name="Program (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.fabio.javacompletoudemy.secao019aula200.application.Program" />
       <module name="secao019aula200" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.fabio.javacompletoudemy.secao019aula200.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Program (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fabio.javacompletoudemy.secao020aula217.application.Program" />
+      <module name="secao020aula217" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fabio.javacompletoudemy.secao020aula217.application.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -178,11 +165,11 @@
       </method>
     </configuration>
     <configuration name="Program (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fabio.javacompletoudemy.secao019aula201.application.Program" />
-      <module name="secao019aula202" />
+      <option name="MAIN_CLASS_NAME" value="com.fabio.javacompletoudemy.secao020aula216.application.Program" />
+      <module name="secao020aula216" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fabio.javacompletoudemy.secao019aula201.application.*" />
+          <option name="PATTERN" value="com.fabio.javacompletoudemy.secao020aula216.application.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -190,27 +177,78 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Shoot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Shoot" />
-      <module name="secao019aula199" />
+    <configuration name="Program (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fabio.javacompletoudemy.secao020aula216.application.Program" />
+      <module name="secao020aula217" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fabio.javacompletoudemy.secao020aula216.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Program (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fabio.javacompletoudemy.secao020aula219.application.Program" />
+      <module name="secao020aula219" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fabio.javacompletoudemy.secao020aula219.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fabio.javacompletoudemy.secao020aula217.application.Program" />
+      <module name="secao020aula218" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fabio.javacompletoudemy.secao020aula217.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fabio.javacompletoudemy.secao020aula215.application.Program" />
+      <module name="secao020aula211" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fabio.javacompletoudemy.secao020aula215.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fabio.javacompletoudemy.secao020aula215.application.Program" />
+      <module name="secao020aula214" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fabio.javacompletoudemy.secao020aula215.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-<<<<<<< HEAD
-        <item itemvalue="Application.Shoot" />
-=======
-        <item itemvalue="Application.Program (1)" />
-        <item itemvalue="Application.Program" />
         <item itemvalue="Application.Program (5)" />
-        <item itemvalue="Application.Program (4)" />
->>>>>>> f0880a87fb635d4c4f1b40efbe0d033ce90a2358
-        <item itemvalue="Application.Program (3)" />
-        <item itemvalue="Application.InfiniteMath" />
+        <item itemvalue="Application.Program" />
         <item itemvalue="Application.Program (2)" />
-        <item itemvalue="Application.Program (1)" />
+        <item itemvalue="Application.Program (4)" />
+        <item itemvalue="Application.Program (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -226,6 +264,7 @@
       </list>
     </option>
   </component>
+  <component name="ShelveChangesManager" show_recycled="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -286,15 +325,17 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="240" y="65" key="#Project_Structure" timestamp="1578912468898">
+    <state x="240" y="65" width="811" height="669" key="#Project_Structure" timestamp="1583958257680">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="240" y="65" key="#Project_Structure/0.0.1280.800/-1920.-280.1920.1080@0.0.1280.800" timestamp="1578912468898" />
-    <state x="453" y="123" key="#com.intellij.ide.util.MemberChooser" timestamp="1579024506113">
+    <state x="240" y="65" width="811" height="669" key="#Project_Structure/0.0.1280.800@0.0.1280.800" timestamp="1583958257680" />
+    <state x="453" y="123" key="#com.intellij.ide.util.MemberChooser" timestamp="1583950431357">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="453" y="123" key="#com.intellij.ide.util.MemberChooser/0.0.1280.800/-1920.-257.1920.1057@0.0.1280.800" timestamp="1578397396420" />
     <state x="453" y="123" key="#com.intellij.ide.util.MemberChooser/0.0.1280.800/-1920.-280.1920.1080@0.0.1280.800" timestamp="1579024506113" />
+    <state x="453" y="123" key="#com.intellij.ide.util.MemberChooser/0.0.1280.800@0.0.1280.800" timestamp="1583950431357" />
     <state x="0" y="0" width="524" height="800" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1578926803127">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
@@ -303,50 +344,54 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="378" y="154" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.800/-1920.-280.1920.1080@0.0.1280.800" timestamp="1578396368315" />
-    <state width="1238" height="212" key="GridCell.Tab.0.bottom" timestamp="1579890283718">
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom" timestamp="1583954786204">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1238" height="263" key="GridCell.Tab.0.bottom/0.0.1280.800/-1920.-257.1920.1057@0.0.1280.800" timestamp="1579006932098" />
     <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.0.1280.800/-1920.-280.1920.1080@0.0.1280.800" timestamp="1579260578228" />
-    <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1579890283718" />
-    <state width="1238" height="212" key="GridCell.Tab.0.center" timestamp="1579890283716">
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1583954786204" />
+    <state width="1238" height="212" key="GridCell.Tab.0.center" timestamp="1583954786202">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1238" height="263" key="GridCell.Tab.0.center/0.0.1280.800/-1920.-257.1920.1057@0.0.1280.800" timestamp="1579006932096" />
     <state width="1238" height="212" key="GridCell.Tab.0.center/0.0.1280.800/-1920.-280.1920.1080@0.0.1280.800" timestamp="1579260578225" />
-    <state width="1238" height="212" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1579890283716" />
-    <state width="1238" height="212" key="GridCell.Tab.0.left" timestamp="1579890283715">
+    <state width="1238" height="212" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1583954786202" />
+    <state width="1238" height="212" key="GridCell.Tab.0.left" timestamp="1583954786201">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1238" height="263" key="GridCell.Tab.0.left/0.0.1280.800/-1920.-257.1920.1057@0.0.1280.800" timestamp="1579006932095" />
     <state width="1238" height="212" key="GridCell.Tab.0.left/0.0.1280.800/-1920.-280.1920.1080@0.0.1280.800" timestamp="1579260578222" />
-    <state width="1238" height="212" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1579890283715" />
-    <state width="1238" height="212" key="GridCell.Tab.0.right" timestamp="1579890283717">
+    <state width="1238" height="212" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1583954786201" />
+    <state width="1238" height="212" key="GridCell.Tab.0.right" timestamp="1583954786203">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1238" height="263" key="GridCell.Tab.0.right/0.0.1280.800/-1920.-257.1920.1057@0.0.1280.800" timestamp="1579006932097" />
     <state width="1238" height="212" key="GridCell.Tab.0.right/0.0.1280.800/-1920.-280.1920.1080@0.0.1280.800" timestamp="1579260578226" />
-    <state width="1238" height="212" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1579890283717" />
-    <state width="1238" height="263" key="GridCell.Tab.1.bottom" timestamp="1579006932101">
+    <state width="1238" height="212" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1583954786203" />
+    <state width="1238" height="263" key="GridCell.Tab.1.bottom" timestamp="1583951605959">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1238" height="263" key="GridCell.Tab.1.bottom/0.0.1280.800/-1920.-257.1920.1057@0.0.1280.800" timestamp="1579006932101" />
     <state width="1238" height="263" key="GridCell.Tab.1.bottom/0.0.1280.800/-1920.-280.1920.1080@0.0.1280.800" timestamp="1578932322745" />
-    <state width="1238" height="263" key="GridCell.Tab.1.center" timestamp="1579006932099">
+    <state width="1238" height="263" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1583951605959" />
+    <state width="1238" height="263" key="GridCell.Tab.1.center" timestamp="1583951605957">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1238" height="263" key="GridCell.Tab.1.center/0.0.1280.800/-1920.-257.1920.1057@0.0.1280.800" timestamp="1579006932099" />
     <state width="1238" height="263" key="GridCell.Tab.1.center/0.0.1280.800/-1920.-280.1920.1080@0.0.1280.800" timestamp="1578932322740" />
-    <state width="1238" height="263" key="GridCell.Tab.1.left" timestamp="1579006932099">
+    <state width="1238" height="263" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1583951605957" />
+    <state width="1238" height="263" key="GridCell.Tab.1.left" timestamp="1583951605956">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1238" height="263" key="GridCell.Tab.1.left/0.0.1280.800/-1920.-257.1920.1057@0.0.1280.800" timestamp="1579006932099" />
     <state width="1238" height="263" key="GridCell.Tab.1.left/0.0.1280.800/-1920.-280.1920.1080@0.0.1280.800" timestamp="1578932322737" />
-    <state width="1238" height="263" key="GridCell.Tab.1.right" timestamp="1579006932100">
+    <state width="1238" height="263" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1583951605956" />
+    <state width="1238" height="263" key="GridCell.Tab.1.right" timestamp="1583951605958">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1238" height="263" key="GridCell.Tab.1.right/0.0.1280.800/-1920.-257.1920.1057@0.0.1280.800" timestamp="1579006932100" />
     <state width="1238" height="263" key="GridCell.Tab.1.right/0.0.1280.800/-1920.-280.1920.1080@0.0.1280.800" timestamp="1578932322743" />
+    <state width="1238" height="263" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1583951605958" />
     <state x="0" y="0" width="1024" height="800" key="SettingsEditor" timestamp="1578396916667">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
@@ -355,28 +400,30 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="319" y="228" key="com.intellij.ide.util.TipDialog/0.0.1280.800/-1920.-280.1920.1080@0.0.1280.800" timestamp="1580827258400" />
-    <state x="319" y="244" key="com.intellij.ide.util.TipDialog/0.23.1280.777/-1920.-257.1920.1057@0.23.1280.777" timestamp="1573061474121" />
     <state x="287" y="206" key="extract.method.dialog" timestamp="1578937764536">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="287" y="206" key="extract.method.dialog/0.0.1280.800/-1920.-280.1920.1080@0.0.1280.800" timestamp="1578937764536" />
-    <state x="306" y="157" width="837" height="550" key="find.popup" timestamp="1579260508716">
+    <state x="306" y="157" width="837" height="550" key="find.popup" timestamp="1583937842350">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="306" y="157" width="837" height="550" key="find.popup/0.0.1280.800/-1920.-280.1920.1080@0.0.1280.800" timestamp="1579260508716" />
-    <state x="0" y="0" width="1212" height="800" key="new project wizard" timestamp="1579024349653">
+    <state x="306" y="157" width="837" height="550" key="find.popup/0.0.1280.800@0.0.1280.800" timestamp="1583937842350" />
+    <state x="0" y="23" width="1212" height="800" key="new project wizard" timestamp="1583958149228">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="0" y="0" width="1212" height="800" key="new project wizard/0.0.1280.800/-1920.-280.1920.1080@0.0.1280.800" timestamp="1579024349653" />
+    <state x="0" y="23" key="new project wizard/0.0.1280.800@0.0.1280.800" timestamp="1583958149228" />
     <state x="305" y="185" width="670" height="675" key="run.anything.popup" timestamp="1578938911899">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="305" y="185" width="670" height="675" key="run.anything.popup/0.0.1280.800/-1920.-257.1920.1057@0.0.1280.800" timestamp="1578938911899" />
     <state x="305" y="185" key="run.anything.popup/0.0.1280.800/-1920.-280.1920.1080@0.0.1280.800" timestamp="1578393735159" />
-    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1578938920305">
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1583945486244">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.0.1280.800/-1920.-257.1920.1057@0.0.1280.800" timestamp="1578938920305" />
     <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.0.1280.800/-1920.-280.1920.1080@0.0.1280.800" timestamp="1578938450998" />
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1583945486244" />
   </component>
 </project>

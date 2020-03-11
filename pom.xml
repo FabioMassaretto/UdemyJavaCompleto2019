@@ -40,10 +40,8 @@
         <module>secao010aula087e088</module>
         <module>secao009aula081</module>
         <module>secao009aula074</module>
-<<<<<<< HEAD
         <module>secao008aula071</module>
         <module>secao018aula189</module>
-=======
         <module>secao018aula189</module>
         <module>secao018aula191</module>
         <module>secao018aula192</module>
@@ -53,11 +51,22 @@
         <module>secao019aula199</module>
         <module>secao019aula200</module>
         <module>secao019aula201</module>
-<<<<<<< HEAD
         <module>secao019aula202</module>
-=======
->>>>>>> cae748ec1f727c470a784c4fe7dc7565e094bb14
->>>>>>> f0880a87fb635d4c4f1b40efbe0d033ce90a2358
+        <module>secao019aula203</module>
+        <module>secao019aula204</module>
+        <module>secao019aula205</module>
+        <module>secao019aula206</module>
+        <module>secao019aula207</module>
+        <module>secao020aula210</module>
+        <module>secao020aula211</module>
+        <module>secao020aula213</module>
+        <module>secao020aula214</module>
+        <module>secao020aula215</module>
+        <module>secao020aula216</module>
+        <module>secao020aula217</module>
+        <module>secao020aula218</module>
+        <module>secao020aula219</module>
+        <module>secao020aula220</module>
     </modules>
 
     <properties>
